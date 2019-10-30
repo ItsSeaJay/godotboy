@@ -17,6 +17,9 @@ material = SubResource( 1 )
 scale = Vector2( 0.232897, 0.234375 )
 texture = ExtResource( 1 )
 centered = false
+__meta__ = {
+"_edit_lock_": true
+}
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 
