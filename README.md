@@ -1,7 +1,7 @@
 # Godotboy
 A monochromatic posterisation shader with a customisable palette.
 
-![Demo](demo.png)
+![Demo](https://github.com/ItsSeaJay/godotboy/blob/master/demo.jpg?raw=true)
 
 ## About
 A while back I was participating in the yearly GBJAM, which requires entrants to
