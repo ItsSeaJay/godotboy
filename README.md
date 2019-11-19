@@ -1,6 +1,8 @@
 # Godotboy
 A monochromatic posterisation shader with a customisable palette.
 
+![Demo](demo.png)
+
 ## About
 A while back I was participating in the yearly GBJAM, which requires entrants to
 make a game either for or with the same limitations as the Nintendo Game Boy:
